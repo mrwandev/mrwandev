@@ -1,5 +1,9 @@
 # mrwandev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwandev69&hide=stars,commits,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwandev69&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mrwandev69">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwandev69&hide=stars,commits,prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Mrwan's github stats" />
+</a>
+<a href="https://github.com/mrwandev69">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrwandev69&show_icons=true&theme=tokyonight" />
+</a>
