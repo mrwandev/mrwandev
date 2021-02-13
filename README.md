@@ -6,5 +6,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwandev69&langs_count=10&theme=tokyonight" alt="Mrwan's github stats"/>
 </a>
 <a href="https://github.com/mrwandev69/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrwandev69&hide=stars,commits,prs,issues,contribs&show_icons=true&show_icons=true&theme=tokyonight"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrwandev69&show_icons=true&theme=tokyonight"/>
 </a>
